@@ -1,0 +1,320 @@
+/* Arcane Fable Font Family */
+
+@font-face {
+  font-family: "Arcane Fable";
+  src: url("ArcaneFable.woff2") format("woff2"),
+    url("ArcaneFable.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* SpiegelSans Font Family */
+
+@font-face {
+  font-family: "SpiegelSans Trial";
+  src: url("SpiegelSansTrial-ExtraLight.woff2") format("woff2"),
+    url("SpiegelSansTrial-ExtraLight.woff") format("woff");
+  font-weight: 200;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "SpiegelSans Trial";
+  src: url("SpiegelSansTrial-Light.woff2") format("woff2"),
+    url("SpiegelSansTrial-Light.woff") format("woff");
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "SpiegelSans Trial";
+  src: url("SpiegelSansTrial-ExtraLtIta.woff2") format("woff2"),
+    url("SpiegelSansTrial-ExtraLtIta.woff") format("woff");
+  font-weight: 200;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "SpiegelSans Trial";
+  src: url("SpiegelSansTrial-LightItalic.woff2") format("woff2"),
+    url("SpiegelSansTrial-LightItalic.woff") format("woff");
+  font-weight: 300;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "SpiegelSans Trial";
+  src: url("SpiegelSansTrial-Regular.woff2") format("woff2"),
+    url("SpiegelSansTrial-Regular.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "SpiegelSans Trial";
+  src: url("SpiegelSansTrial-SemiLightIta.woff2") format("woff2"),
+    url("SpiegelSansTrial-SemiLightIta.woff") format("woff");
+  font-weight: 300;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "SpiegelSans Trial";
+  src: url("SpiegelSansTrial-ExtraBoldIta.woff2") format("woff2"),
+    url("SpiegelSansTrial-ExtraBoldIta.woff") format("woff");
+  font-weight: bold;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "SpiegelSans Trial";
+  src: url("SpiegelSansTrial-BoldItalic.woff2") format("woff2"),
+    url("SpiegelSansTrial-BoldItalic.woff") format("woff");
+  font-weight: bold;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "SpiegelSans Trial";
+  src: url("SpiegelSansTrial-BlackItalic.woff2") format("woff2"),
+    url("SpiegelSansTrial-BlackItalic.woff") format("woff");
+  font-weight: 900;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "SpiegelSans Trial";
+  src: url("SpiegelSansTrial-Black.woff2") format("woff2"),
+    url("SpiegelSansTrial-Black.woff") format("woff");
+  font-weight: 900;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "SpiegelSans Trial";
+  src: url("SpiegelSansTrial-SemiLight.woff2") format("woff2"),
+    url("SpiegelSansTrial-SemiLight.woff") format("woff");
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "SpiegelSans Trial";
+  src: url("SpiegelSansTrial-SemiBoldIta.woff2") format("woff2"),
+    url("SpiegelSansTrial-SemiBoldIta.woff") format("woff");
+  font-weight: 600;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "SpiegelSans Trial";
+  src: url("SpiegelSansTrial-Italic.woff2") format("woff2"),
+    url("SpiegelSansTrial-Italic.woff") format("woff");
+  font-weight: normal;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "SpiegelSans Trial";
+  src: url("SpiegelSansTrial-SemiBold.woff2") format("woff2"),
+    url("SpiegelSansTrial-SemiBold.woff") format("woff");
+  font-weight: 600;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "SpiegelSans Trial";
+  src: url("SpiegelSansTrial-ExtraBold.woff2") format("woff2"),
+    url("SpiegelSansTrial-ExtraBold.woff") format("woff");
+  font-weight: bold;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "SpiegelSans Trial";
+  src: url("SpiegelSansTrial-Bold.woff2") format("woff2"),
+    url("SpiegelSansTrial-Bold.woff") format("woff");
+  font-weight: bold;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* SpiegelSansCd Font Family */
+
+@font-face {
+  font-family: "SpiegelSansCd";
+  src: url("SpiegelSansCdTrial-ExtraLight.woff2") format("woff2"),
+    url("SpiegelSansCdTrial-ExtraLight.woff") format("woff");
+  font-weight: 200;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "SpiegelSansCd";
+  src: url("SpiegelSansCdTrial-SemiLight.woff2") format("woff2"),
+    url("SpiegelSansCdTrial-SemiLight.woff") format("woff");
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "SpiegelSansCd";
+  src: url("SpiegelSansCdTrial-SemiBold.woff2") format("woff2"),
+    url("SpiegelSansCdTrial-SemiBold.woff") format("woff");
+  font-weight: 600;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "SpiegelSansCd";
+  src: url("SpiegelSansCdTrial-Light.woff2") format("woff2"),
+    url("SpiegelSansCdTrial-Light.woff") format("woff");
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "SpiegelSansCd";
+  src: url("SpiegelSansCdTrial-SemiLtIta.woff2") format("woff2"),
+    url("SpiegelSansCdTrial-SemiLtIta.woff") format("woff");
+  font-weight: 300;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "SpiegelSansCd";
+  src: url("SpiegelSansCdTrial-Bold.woff2") format("woff2"),
+    url("SpiegelSansCdTrial-Bold.woff") format("woff");
+  font-weight: bold;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "SpiegelSansCd";
+  src: url("SpiegelSansCdTrial-LightIta.woff2") format("woff2"),
+    url("SpiegelSansCdTrial-LightIta.woff") format("woff");
+  font-weight: 300;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "SpiegelSansCd";
+  src: url("SpiegelSansCdTrial-ExtraLtIta.woff2") format("woff2"),
+    url("SpiegelSansCdTrial-ExtraLtIta.woff") format("woff");
+  font-weight: 200;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "SpiegelSansCd";
+  src: url("SpiegelSansCdTrial-SemiBdIta.woff2") format("woff2"),
+    url("SpiegelSansCdTrial-SemiBdIta.woff") format("woff");
+  font-weight: 600;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "SpiegelSansCd";
+  src: url("SpiegelSansCdTrial-Regular.woff2") format("woff2"),
+    url("SpiegelSansCdTrial-Regular.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "SpiegelSansCd";
+  src: url("SpiegelSansCdTrial-Italic.woff2") format("woff2"),
+    url("SpiegelSansCdTrial-Italic.woff") format("woff");
+  font-weight: normal;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "SpiegelSansCd";
+  src: url("SpiegelSansCdTrial-ExtraBdIta.woff2") format("woff2"),
+    url("SpiegelSansCdTrial-ExtraBdIta.woff") format("woff");
+  font-weight: bold;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "SpiegelSansCd";
+  src: url("SpiegelSansCdTrial-BoldItalic.woff2") format("woff2"),
+    url("SpiegelSansCdTrial-BoldItalic.woff") format("woff");
+  font-weight: bold;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "SpiegelSansCd";
+  src: url("SpiegelSansCdTrial-ExtraBold.woff2") format("woff2"),
+    url("SpiegelSansCdTrial-ExtraBold.woff") format("woff");
+  font-weight: bold;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "SpiegelSansCd";
+  src: url("SpiegelSansCdTrial-Black.woff2") format("woff2"),
+    url("SpiegelSansCdTrial-Black.woff") format("woff");
+  font-weight: 900;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "SpiegelSansCd";
+  src: url("SpiegelSansCdTrial-BlackIta.woff2") format("woff2"),
+    url("SpiegelSansCdTrial-BlackIta.woff") format("woff");
+  font-weight: 900;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "SpiegelSansCd";
+  src: url("SpiegelSansCdTrial-SemiLight.woff2") format("woff2"),
+    url("SpiegelSansCdTrial-SemiLight.woff") format("woff");
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "SpiegelSansCd";
+  src: url("SpiegelSansCdTrial-SemiLtIta.woff2") format("woff2"),
+    url("SpiegelSansCdTrial-SemiLtIta.woff") format("woff");
+  font-weight: 300;
+  font-style: italic;
+  font-display: swap;
+}
